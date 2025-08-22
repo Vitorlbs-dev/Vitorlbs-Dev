@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre mim
-- Tenho 18 anos e tualmente estou cursando Analise e Desenvolvimento de Sistemas em uma das melhores faculdades em tecnologia do país,
+- Atualmente estou cursando Analise e Desenvolvimento de Sistemas em uma das melhores faculdades em tecnologia do país,
   sou apaixonado por tecnologia e busco me aprofundar cada vez mais nesse mundo tecnológico.
   
 - 🎯 Foco em **desenvolvimento web**
