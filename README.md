@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Vitor Lima
 
-<!--
-**Vitorlbs-dev/Vitorlbs-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Web;  
+🚀 Apaixonado por tecnologia, inovação e criação de soluções digitais.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- Tenho 18 anos e tualmente estou cursando Analise e Desenvolvimento de Sistemas em uma das melhores faculdades em tecnologia do país,
+  sou apaixonado por tecnologia e busco me aprofundar cada vez mais nesse mundo tecnológico.
+  
+- 🎯 Foco em **desenvolvimento web**
+- 📚 Sempre aprendendo novas ferramentas e boas práticas    
+
+---
+
+## 🌎 Onde me encontrar
+📩 **Email:** vitorlbs12@gmail.com
+
+---
+
+⭐️ _"Transformando ideias em código e código em soluções."_
